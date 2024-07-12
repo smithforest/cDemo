@@ -1,0 +1,12 @@
+# ninja log v6
+3	64	7424653661251208	CMakeFiles/cDemo.dir/main.c.obj	883740b2ba08176d
+82	184	7424653662038109	cDemo.exe	cfa535cc69a55165
+8	82	7424653661301252	CMakeFiles/cDemo.dir/common.c.obj	daa24e8ce53d3821
+1	316	7424654905540072	build.ninja	c9e6e361c5e3f6f2
+4	73	7424654905846663	CMakeFiles/cDemo.dir/common/common.c.obj	a44dd075bed24c7b
+3	47	7424655038828625	CMakeFiles/cDemo.dir/main.c.obj	883740b2ba08176d
+47	143	7424655039280588	cDemo.exe	484e6d1b38eb8f50
+4	50	7424655670891650	CMakeFiles/cDemo.dir/main.c.obj	883740b2ba08176d
+51	142	7424655671363479	cDemo.exe	484e6d1b38eb8f50
+3	86	7424657475658024	CMakeFiles/cDemo.dir/common/common.c.obj	a44dd075bed24c7b
+86	186	7424657476497416	cDemo.exe	484e6d1b38eb8f50
