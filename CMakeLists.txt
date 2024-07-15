@@ -5,4 +5,9 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(cDemo main.c
         common/common.c
-        common/common.h)
+        common/common.h
+        sort/smithsorts.c
+        sort/smithSort.h
+        find/smithfind.c
+        find/smithFind.h
+)

@@ -4,4 +4,5 @@
 void pointerOutput(int number);
 void arrayOutPut(int* arr, int size);
 int* arrayGenerate(int size);
+void swap(int *a, int *b);
 #endif
