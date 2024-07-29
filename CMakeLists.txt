@@ -10,4 +10,8 @@ add_executable(cDemo main.c
         sort/smithSort.h
         find/smithfind.c
         find/smithFind.h
+        struct/smithStruct.cpp
+        struct/smithStruct.h
+        smithLiner/SmithLinerList.cpp
+        smithLiner/SmithLinerList.h
 )
